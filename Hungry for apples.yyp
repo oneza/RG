@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "ed38a494-cd4a-40be-ac12-550cb69b5118",
+            "Value": {
+                "id": "bec503dd-8517-481c-9a9e-69b35fff21d7",
+                "resourcePath": "sprites\\spr_movingfloor\\spr_movingfloor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f6e5ade2-6ada-4655-9108-7c3e11c96f66",
             "Value": {
                 "id": "89fa2882-a141-4d13-9466-7109d90a5fc6",
