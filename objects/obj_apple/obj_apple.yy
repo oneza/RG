@@ -2,7 +2,7 @@
     "id": "431e68b4-41b9-4293-9008-4716c0fd0593",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object3",
+    "name": "obj_apple",
     "eventList": [
         
     ],

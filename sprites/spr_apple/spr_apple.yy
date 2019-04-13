@@ -36,14 +36,14 @@
                     "LayerId": "920595f9-7290-4b23-8879-1cf4b58cf8f3"
                 },
                 {
-                    "id": "0f9a0014-9d6d-4cbb-bb55-344553d63cf3",
+                    "id": "8fb7d6ca-25ff-465f-81f4-ba5e677d6606",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
                     "FrameId": "e2f34867-566c-46bf-bd4a-037d27909e97",
                     "LayerId": "ff659c4a-1e8c-4473-b96b-0353b245e35c"
                 },
                 {
-                    "id": "e8f5da99-aefc-4043-96cd-9c6886569b76",
+                    "id": "b33de5d6-b393-4f09-9ceb-034779c21e31",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
                     "FrameId": "e2f34867-566c-46bf-bd4a-037d27909e97",
