@@ -1,19 +1,10 @@
 {
-    "id": "d8ffa118-843b-41f6-abf4-71d774316339",
+    "id": "80cb1760-a756-4f1d-9d56-7c5e0988d9d5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_appleforstartscreen",
+    "name": "obj_anotherApple",
     "eventList": [
-        {
-            "id": "6423e671-fe1d-4e0d-b929-4acc1976d845",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "d8ffa118-843b-41f6-abf4-71d774316339"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
