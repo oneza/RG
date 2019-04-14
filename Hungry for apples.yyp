@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "025cd51d-4242-4183-85b5-858672b314de",
+            "Value": {
+                "id": "a729aab4-3e5d-438e-8265-69495a7dadb5",
+                "resourcePath": "sprites\\spr_realapple11\\spr_realapple11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0371b93d-eb71-4903-ae39-457e5252e016",
             "Value": {
                 "id": "5ef658ce-02a1-4842-ad0c-74db2714f23b",
@@ -292,14 +300,6 @@
                 "id": "884ffd29-2ca6-43cb-8c56-5ac204ec3f13",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
-            }
-        },
-        {
-            "Key": "7e11e0c9-bb22-4d32-bd11-3db157d55014",
-            "Value": {
-                "id": "2f765a2b-4a6e-45b9-bc61-df6388070934",
-                "resourcePath": "sprites\\sprite18\\sprite18.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
