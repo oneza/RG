@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "d48ae81c-b0ed-4bc3-8409-67fcfbe5c46c",
+            "Value": {
+                "id": "65baf4fc-6206-4171-ab24-5912762b8f78",
+                "resourcePath": "objects\\obj_apple1\\obj_apple1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e3c5e592-7c29-4c83-a877-8a92bac46600",
             "Value": {
                 "id": "ce0c3de9-b010-4a14-b9b3-fa57d823fd15",
