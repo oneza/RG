@@ -127,14 +127,6 @@
             }
         },
         {
-            "Key": "431e68b4-41b9-4293-9008-4716c0fd0593",
-            "Value": {
-                "id": "b18c1aa7-d8a0-4695-adeb-66285bf466f6",
-                "resourcePath": "objects\\obj_apple\\obj_apple.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "432814e8-7660-4395-bcd1-57cff38c0a61",
             "Value": {
                 "id": "27c0ff04-66f9-4c21-954a-2e777b3651be",
@@ -204,6 +196,14 @@
                 "id": "629183b2-5f32-44c9-bbf7-a16b160497b2",
                 "resourcePath": "views\\51d4b408-cf02-449b-b6ec-732c1fb13e31.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "533427b3-53bf-4ddc-a734-02ce5178e10b",
+            "Value": {
+                "id": "876c0e4b-70e6-4a98-81ab-82e6fb6c3161",
+                "resourcePath": "fonts\\fn_small\\fn_small.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -324,14 +324,6 @@
                 "id": "f86d91e8-c1e6-48a7-9399-3a8ecb913d59",
                 "resourcePath": "objects\\obj_snake_sc\\obj_snake_sc.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "86d6efaf-b9ee-41ed-8d1f-e5aecd9c7829",
-            "Value": {
-                "id": "84aa0c3b-1330-4d8b-9574-28251b00103e",
-                "resourcePath": "views\\86d6efaf-b9ee-41ed-8d1f-e5aecd9c7829.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -540,14 +532,6 @@
                 "id": "33ba64a5-9db4-4f99-9a40-f53493b4be02",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
-            }
-        },
-        {
-            "Key": "e7c0d349-5c16-4119-a3f1-ca819704509b",
-            "Value": {
-                "id": "ad8514de-33aa-4a62-8ef9-fc18fee8db24",
-                "resourcePath": "objects\\obj_life\\obj_life.yy",
-                "resourceType": "GMObject"
             }
         },
         {
