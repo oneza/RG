@@ -5,7 +5,7 @@
     "name": "obj_life",
     "eventList": [
         {
-            "id": "b86e1bbb-9698-444c-9c29-b4cce9eb6b6d",
+            "id": "77273109-1c13-49a0-9675-b4ba44cb7368",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
@@ -15,7 +15,7 @@
             "m_owner": "e7c0d349-5c16-4119-a3f1-ca819704509b"
         },
         {
-            "id": "f9d0787b-03f0-4db1-bd05-0d1f3aba83f7",
+            "id": "79bc1c7d-461c-44ba-9bdb-c8ffe69d1709",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
