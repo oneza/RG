@@ -1,16 +1,14 @@
 {
     "id": "b22c9947-da7d-41a3-a2db-01cf04aa5231",
     "modelName": "GMFont",
-    "mvc": "1.1",
+    "mvc": "1.0",
     "name": "fn_game_name_qm",
     "AntiAlias": 1,
     "TTFName": "",
-    "ascenderOffset": 4,
     "bold": false,
     "charset": 0,
     "first": 0,
     "fontName": "Goudy Stout",
-    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -1453,16 +1451,13 @@
             }
         }
     ],
-    "hinting": 0,
+    "image": null,
     "includeTTF": false,
-    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         
     ],
     "last": 0,
-    "maintainGms1Font": false,
-    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,
