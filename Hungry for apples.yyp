@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "7e725680-d2b5-4c8d-af17-aacd73a3b0b5",
+            "Value": {
+                "id": "1ba7c0aa-1972-446a-a80f-447e70b872c5",
+                "resourcePath": "objects\\end_line\\end_line.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "80cb1760-a756-4f1d-9d56-7c5e0988d9d5",
             "Value": {
                 "id": "0a7bc995-d299-4f8e-83d2-b385ee98a94f",
