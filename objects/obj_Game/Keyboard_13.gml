@@ -32,6 +32,14 @@ switch(l34FCA135_0)
 	/// @DnDParent : 34FCA135
 	/// @DnDArgument : "const" "rm_death "
 	case rm_death :
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 7C3B8A7C
+		/// @DnDParent : 29545DD2
+		/// @DnDArgument : "expr" "100"
+		/// @DnDArgument : "var" "health"
+		health = 100;
+	
 		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 		/// @DnDVersion : 1
 		/// @DnDHash : 0533A4D8

@@ -2,7 +2,7 @@
 {
     "name": "rm_death",
     "id": "38e41fb5-debd-45f1-b18f-86f4ef1b3143",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
