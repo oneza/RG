@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "d8ffa118-843b-41f6-abf4-71d774316339",
+            "Value": {
+                "id": "8bab0e12-6b5e-43f1-b8c2-beda746a7755",
+                "resourcePath": "objects\\obj_appleforstartscreen\\obj_appleforstartscreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e3c5e592-7c29-4c83-a877-8a92bac46600",
             "Value": {
                 "id": "ce0c3de9-b010-4a14-b9b3-fa57d823fd15",
@@ -396,6 +404,14 @@
                 "id": "33ba64a5-9db4-4f99-9a40-f53493b4be02",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e7c0d349-5c16-4119-a3f1-ca819704509b",
+            "Value": {
+                "id": "ad8514de-33aa-4a62-8ef9-fc18fee8db24",
+                "resourcePath": "objects\\obj_life\\obj_life.yy",
+                "resourceType": "GMObject"
             }
         },
         {
