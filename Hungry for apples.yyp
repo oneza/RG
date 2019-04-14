@@ -279,11 +279,27 @@
             }
         },
         {
+            "Key": "7c6d38f7-c43b-42e3-b82e-c426cdef51c8",
+            "Value": {
+                "id": "49977d0d-c421-499d-b625-15a6c8c7bb91",
+                "resourcePath": "sprites\\spr_deadsnake\\spr_deadsnake.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "884ffd29-2ca6-43cb-8c56-5ac204ec3f13",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "7e11e0c9-bb22-4d32-bd11-3db157d55014",
+            "Value": {
+                "id": "2f765a2b-4a6e-45b9-bc61-df6388070934",
+                "resourcePath": "sprites\\sprite18\\sprite18.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -516,6 +532,14 @@
                 "id": "b5900fa7-2466-41d3-83a5-20c6b5375ecd",
                 "resourcePath": "sprites\\spr_snake_sc\\spr_snake_sc.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e2da99a7-f402-4033-86b0-5eaf8d843ead",
+            "Value": {
+                "id": "62a517c3-e785-4b59-a6bd-dc83a2a8bd83",
+                "resourcePath": "objects\\obj_dedsnake\\obj_dedsnake.yy",
+                "resourceType": "GMObject"
             }
         },
         {
