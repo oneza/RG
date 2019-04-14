@@ -7,6 +7,7 @@ with(obj_realapple) instance_destroy();
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 7ACA0F0D
-/// @DnDArgument : "expr" "obj_life.hp+5"
+/// @DnDArgument : "expr" "+5"
+/// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "obj_life.hp"
-obj_life.hp = obj_life.hp+5;
+obj_life.hp += +5;

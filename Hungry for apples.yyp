@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "38e41fb5-debd-45f1-b18f-86f4ef1b3143",
+            "Value": {
+                "id": "172cfb36-ee53-48b5-a07f-f29a44c54c58",
+                "resourcePath": "rooms\\rm_death\\rm_death.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "b8525ddf-ae67-4fae-9af2-1bcfaa207aff",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "86d6efaf-b9ee-41ed-8d1f-e5aecd9c7829",
+            "Value": {
+                "id": "84aa0c3b-1330-4d8b-9574-28251b00103e",
+                "resourcePath": "views\\86d6efaf-b9ee-41ed-8d1f-e5aecd9c7829.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8759bf8d-5e2a-4fc8-b7fe-eb1a0cc44c59",
             "Value": {
                 "id": "be3f708a-4be4-4a75-a795-364e2927ea21",
@@ -363,14 +379,6 @@
             "Value": {
                 "id": "80214243-75d6-4ea9-aa00-3c65474a978b",
                 "resourcePath": "sprites\\spr_block3\\spr_block3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "97a42b79-f8ac-43d2-beda-1286967f5146",
-            "Value": {
-                "id": "e3207f5a-2633-449c-8ea0-ac7a5d2c09ad",
-                "resourcePath": "sprites\\spr_instakill\\spr_instakill.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -4,9 +4,9 @@
 
 __dnd_score = real(0);
 
-/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
-/// @DnDHash : 6C975327
-/// @DnDArgument : "lives" "100"
+/// @DnDHash : 2643E19B
+/// @DnDArgument : "health" "100"
 
-__dnd_lives = real(100);
+__dnd_health = real(100);
