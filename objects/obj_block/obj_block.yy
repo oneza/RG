@@ -29,9 +29,9 @@
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "7e725680-d2b5-4c8d-af17-aacd73a3b0b5",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
+            "eventtype": 7,
             "m_owner": "a42042be-d6b2-4ca4-a539-1f5767dd2853"
         },
         {
