@@ -40,6 +40,13 @@ switch(l34FCA135_0)
 		/// @DnDArgument : "var" "health"
 		health = 100;
 	
+		/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+		/// @DnDVersion : 1
+		/// @DnDHash : 09FF5FED
+		/// @DnDParent : 29545DD2
+		
+		__dnd_score = real(0);
+	
 		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 		/// @DnDVersion : 1
 		/// @DnDHash : 0533A4D8

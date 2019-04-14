@@ -30,9 +30,9 @@ switch(l5B9154C4_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 04B857E6
 		/// @DnDParent : 3BBE181E
-		/// @DnDArgument : "expr" "-0.1"
+		/// @DnDArgument : "expr" "-0.06"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "health"
-		health += -0.1;
+		health += -0.06;
 		break;
 }
