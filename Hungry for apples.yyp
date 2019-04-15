@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "46ce839a-e7c9-4fc4-998f-d08850b1b726",
+            "Value": {
+                "id": "4a87e4c7-3523-48f4-a63a-89fc578ba75e",
+                "resourcePath": "objects\\music_start\\music_start.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "475d43de-87f2-4967-bbda-9961becf37ae",
             "Value": {
                 "id": "f5f2e5da-790a-4893-b54a-afbfad5557ac",
