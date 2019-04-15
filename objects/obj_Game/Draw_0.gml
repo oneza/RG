@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 6E50CACD
-/// @DnDArgument : "code" "if(global.gameIsPaused){$(13_10)	draw_text(200, 300, "Game is paused")$(13_10)	for(var i = 0; i < array_height_2d(allObjects); i++){$(13_10)		draw_sprite_ext(allObjects[i, 0],$(13_10)						allObjects[i, 1],$(13_10)						allObjects[i, 2],$(13_10)						allObjects[i, 3],$(13_10)						allObjects[i, 4],$(13_10)						allObjects[i, 5],$(13_10)						allObjects[i, 6],$(13_10)						allObjects[i, 7],$(13_10)						allObjects[i, 8]$(13_10)						);$(13_10)	}$(13_10)	draw_sprite_ext(spr_mmbutton, 0, 250, 324, 2, 1, 0, 0, 0);$(13_10)}"
+/// @DnDArgument : "code" "if(global.gameIsPaused){$(13_10)	draw_text(200, 300, "Game is paused")$(13_10)	for(var i = 0; i < array_height_2d(allObjects); i++){$(13_10)		draw_sprite_ext(allObjects[i, 0],$(13_10)						allObjects[i, 1],$(13_10)						allObjects[i, 2],$(13_10)						allObjects[i, 3],$(13_10)						allObjects[i, 4],$(13_10)						allObjects[i, 5],$(13_10)						allObjects[i, 6],$(13_10)						allObjects[i, 7],$(13_10)						allObjects[i, 8]$(13_10)						);$(13_10)	}$(13_10)}"
 if(global.gameIsPaused){
 	draw_text(200, 300, "Game is paused")
 	for(var i = 0; i < array_height_2d(allObjects); i++){
@@ -16,7 +16,6 @@ if(global.gameIsPaused){
 						allObjects[i, 8]
 						);
 	}
-	draw_sprite_ext(spr_mmbutton, 0, 250, 324, 2, 1, 0, 0, 0);
 }
 
 /// @DnDAction : YoYo Games.Rooms.Get_Current_Room
