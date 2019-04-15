@@ -12,7 +12,7 @@ audio_stop_all();
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 3D8938B1
-/// @DnDArgument : "soundid" "game"
+/// @DnDArgument : "soundid" "snd_game"
 /// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "111a42be-8450-4c1c-a28b-ee6ff6e6d6c8"
-audio_play_sound(game, 0, 1);
+audio_play_sound(snd_game, 0, 1);
