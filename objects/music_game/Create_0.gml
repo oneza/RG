@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 357181D2
+/// @DnDArgument : "var" "mus_pause"
+mus_pause = 0;
+
 /// @DnDAction : YoYo Games.Audio.Stop_All_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 24289288
