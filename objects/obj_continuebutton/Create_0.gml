@@ -1,9 +1,8 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 75F93321
-/// @DnDArgument : "code" "selected = false;$(13_10)image_speed = 0;$(13_10)image_xscale = 2;$(13_10)image_yscale = 1;$(13_10)object_get_visible(false)"
+/// @DnDArgument : "code" "selected = false;$(13_10)image_speed = 0;$(13_10)image_xscale = 2;$(13_10)image_yscale = 1;$(13_10)"
 selected = false;
 image_speed = 0;
 image_xscale = 2;
 image_yscale = 1;
-object_get_visible(false)
