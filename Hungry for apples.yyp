@@ -98,7 +98,7 @@
             "Key": "111a42be-8450-4c1c-a28b-ee6ff6e6d6c8",
             "Value": {
                 "id": "e7fff97e-6cbc-41a2-a0ef-aa4626734e2a",
-                "resourcePath": "sounds\\game\\game.yy",
+                "resourcePath": "sounds\\snd_game\\snd_game.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -530,7 +530,7 @@
             "Key": "9bfe06cf-8c5c-4226-bdc5-a3d46ca951eb",
             "Value": {
                 "id": "c2804980-ae02-48f8-b8f2-e3cc87ce06d1",
-                "resourcePath": "sounds\\pause\\pause.yy",
+                "resourcePath": "sounds\\snd_pause\\snd_pause.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -546,7 +546,7 @@
             "Key": "9f86741c-2942-4c9f-958a-f42680a699d6",
             "Value": {
                 "id": "d053d140-bbd6-46a7-805b-732526c13742",
-                "resourcePath": "sounds\\start\\start.yy",
+                "resourcePath": "sounds\\snd_start\\snd_start.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -722,7 +722,7 @@
             "Key": "f4c033ca-f1ca-476b-b60f-0745aa306906",
             "Value": {
                 "id": "19a304b9-bc07-40dd-b6db-0d6b544a61a4",
-                "resourcePath": "sounds\\death\\death.yy",
+                "resourcePath": "sounds\\snd_death\\snd_death.yy",
                 "resourceType": "GMSound"
             }
         },
