@@ -431,6 +431,22 @@
             }
         },
         {
+            "Key": "8dbd31dd-a40a-4d77-ad29-61afaa18baa3",
+            "Value": {
+                "id": "71379a99-4d0b-460b-ba90-a836c400e551",
+                "resourcePath": "objects\\obj_continuebutton\\obj_continuebutton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "92c2d8e6-825d-480c-b76a-7e69459f7860",
+            "Value": {
+                "id": "1b000e88-02f4-4fe8-9abb-6924dadcca5b",
+                "resourcePath": "sprites\\spr_continuebutton\\spr_continuebutton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "96a11915-3049-459e-a1ab-5a1ed9eec8c5",
