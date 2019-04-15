@@ -1,16 +1,14 @@
 {
     "id": "533427b3-53bf-4ddc-a734-02ce5178e10b",
     "modelName": "GMFont",
-    "mvc": "1.1",
+    "mvc": "1.0",
     "name": "fn_small",
     "AntiAlias": 1,
     "TTFName": "",
-    "ascenderOffset": 0,
     "bold": false,
     "charset": 0,
     "first": 0,
     "fontName": "Arabic Transparent",
-    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -1453,9 +1451,8 @@
             }
         }
     ],
-    "hinting": 0,
+    "image": null,
     "includeTTF": false,
-    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         {
@@ -2164,8 +2161,6 @@
         }
     ],
     "last": 0,
-    "maintainGms1Font": false,
-    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,
