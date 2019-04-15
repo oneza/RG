@@ -1,5 +1,5 @@
 {
-    "id": "7fc98614-afd1-40ae-a10c-5bf3022fc8aa",
+    "id": "f4c033ca-f1ca-476b-b60f-0745aa306906",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "death",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.58
+    "volume": 1
 }
