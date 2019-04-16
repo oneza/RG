@@ -18,15 +18,15 @@ if(global.gameIsPaused)
 	/// @DnDVersion : 1
 	/// @DnDHash : 14B60E02
 	/// @DnDParent : 2911BDE9
-	/// @DnDArgument : "soundid" "pause"
+	/// @DnDArgument : "soundid" "snd_pause"
 	/// @DnDSaveInfo : "soundid" "9bfe06cf-8c5c-4226-bdc5-a3d46ca951eb"
-	audio_stop_sound(pause);
+	audio_stop_sound(snd_pause);
 
 	/// @DnDAction : YoYo Games.Audio.Resume_Audio
 	/// @DnDVersion : 1
 	/// @DnDHash : 1099857B
 	/// @DnDParent : 2911BDE9
-	/// @DnDArgument : "sound" "game"
+	/// @DnDArgument : "sound" "snd_game"
 	/// @DnDSaveInfo : "sound" "111a42be-8450-4c1c-a28b-ee6ff6e6d6c8"
-	audio_resume_sound(game);
+	audio_resume_sound(snd_game);
 }
