@@ -88,4 +88,61 @@ switch(l22F959E9_0)
 		if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 		draw_text(250, 300, string("") + string(__dnd_score));
 		break;
+
+	/// @DnDAction : YoYo Games.Switch.Case
+	/// @DnDVersion : 1
+	/// @DnDHash : 56A38B6A
+	/// @DnDParent : 22F959E9
+	/// @DnDArgument : "const" "rm_start"
+	case rm_start:
+		/// @DnDAction : YoYo Games.Drawing.Set_Font
+		/// @DnDVersion : 1
+		/// @DnDHash : 6238378E
+		/// @DnDParent : 56A38B6A
+		/// @DnDArgument : "font" "fn_game_name"
+		/// @DnDSaveInfo : "font" "89454b45-6c73-47e3-ab77-5dcdfdedd650"
+		draw_set_font(fn_game_name);
+	
+		/// @DnDAction : YoYo Games.Drawing.Set_Color
+		/// @DnDVersion : 1
+		/// @DnDHash : 3980B0C7
+		/// @DnDParent : 56A38B6A
+		/// @DnDArgument : "color" "$FF1010A8"
+		draw_set_colour($FF1010A8 & $ffffff);
+		draw_set_alpha(($FF1010A8 >> 24) / $ff);
+	
+		/// @DnDAction : YoYo Games.Drawing.Set_Alignment
+		/// @DnDVersion : 1.1
+		/// @DnDHash : 6AB24AAC
+		/// @DnDParent : 56A38B6A
+		/// @DnDArgument : "halign" "fa_center"
+		draw_set_halign(fa_center);
+		draw_set_valign(fa_top);
+	
+		/// @DnDAction : YoYo Games.Drawing.Draw_Value
+		/// @DnDVersion : 1
+		/// @DnDHash : 027B95DD
+		/// @DnDParent : 56A38B6A
+		/// @DnDArgument : "x" "250"
+		/// @DnDArgument : "y" "200"
+		/// @DnDArgument : "caption" ""Hungry For""
+		draw_text(250, 200, string("Hungry For") + "");
+	
+		/// @DnDAction : YoYo Games.Drawing.Set_Font
+		/// @DnDVersion : 1
+		/// @DnDHash : 59AB8D42
+		/// @DnDParent : 56A38B6A
+		/// @DnDArgument : "font" "fn_game_name_qm"
+		/// @DnDSaveInfo : "font" "b22c9947-da7d-41a3-a2db-01cf04aa5231"
+		draw_set_font(fn_game_name_qm);
+	
+		/// @DnDAction : YoYo Games.Drawing.Draw_Value
+		/// @DnDVersion : 1
+		/// @DnDHash : 51C36928
+		/// @DnDParent : 56A38B6A
+		/// @DnDArgument : "x" "250"
+		/// @DnDArgument : "y" "260"
+		/// @DnDArgument : "caption" ""   ?""
+		draw_text(250, 260, string("   ?") + "");
+		break;
 }

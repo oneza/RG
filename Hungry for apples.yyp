@@ -663,14 +663,6 @@
             }
         },
         {
-            "Key": "d8ffa118-843b-41f6-abf4-71d774316339",
-            "Value": {
-                "id": "8bab0e12-6b5e-43f1-b8c2-beda746a7755",
-                "resourcePath": "objects\\obj_appleforstartscreen\\obj_appleforstartscreen.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "e1d07a78-fe12-40a7-80d9-1c0459012706",
             "Value": {
                 "id": "b5900fa7-2466-41d3-83a5-20c6b5375ecd",
