@@ -7,3 +7,23 @@ if (!selected) {
 } else {
 	selected = false;
 }
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 69F9200D
+/// @DnDArgument : "expr" "100"
+/// @DnDArgument : "var" "health"
+health = 100;
+
+/// @DnDAction : YoYo Games.Common.Apply_To
+/// @DnDVersion : 1
+/// @DnDHash : 26C5762D
+/// @DnDApplyTo : 6115b2cb-c532-4357-a73e-351f9e2b38d1
+with(obj_Game) {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 4D8D76CF
+	/// @DnDParent : 26C5762D
+	/// @DnDArgument : "var" "score"
+	score = 0;
+}
