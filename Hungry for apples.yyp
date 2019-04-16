@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "3c1988de-2a1f-445c-8291-2ddd48c4d83a",
+            "Value": {
+                "id": "ee2c49a0-feda-4555-a21b-32f42e89b247",
+                "resourcePath": "sounds\\snd_afterdeath\\snd_afterdeath.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3cb67347-5bb4-4d5f-b0df-eeff209e7eda",
             "Value": {
                 "id": "daebe0d6-4b86-4eaf-bf78-10a54a86849d",
