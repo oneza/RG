@@ -23,5 +23,13 @@ switch(l02DF95B3_0)
 		/// @DnDParent : 2E3C8052
 		
 		__dnd_score = real(0);
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 70158323
+		/// @DnDParent : 2E3C8052
+		/// @DnDArgument : "expr" "100"
+		/// @DnDArgument : "var" "health"
+		health = 100;
 		break;
 }
