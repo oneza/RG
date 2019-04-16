@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "c36f3fb8-29b2-4078-aa4d-8e442f150787",
+            "Value": {
+                "id": "6c655508-9b7c-4652-b80f-1f2325c76c20",
+                "resourcePath": "sounds\\snd_snakeoncrash\\snd_snakeoncrash.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cb1d1c42-48a5-4166-a583-af06cf2c84e8",
             "Value": {
                 "id": "40c87e3a-856b-4d8a-80ec-8e5ef5f13ba3",
