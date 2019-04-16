@@ -21,16 +21,3 @@ room_goto(rm_game);
 /// @DnDArgument : "expr" "100"
 /// @DnDArgument : "var" "health"
 health = 100;
-
-/// @DnDAction : YoYo Games.Common.Apply_To
-/// @DnDVersion : 1
-/// @DnDHash : 69908C3D
-/// @DnDApplyTo : 6115b2cb-c532-4357-a73e-351f9e2b38d1
-with(obj_Game) {
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 0DA6AB4E
-	/// @DnDParent : 69908C3D
-	/// @DnDArgument : "var" "score"
-	score = 0;
-}
