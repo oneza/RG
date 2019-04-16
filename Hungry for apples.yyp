@@ -647,6 +647,14 @@
             }
         },
         {
+            "Key": "cbe8316c-e273-40a5-8fab-e1125e27e366",
+            "Value": {
+                "id": "a17314a0-6b10-412a-986c-a9e001b091c6",
+                "resourcePath": "sounds\\snd_snakeonapple\\snd_snakeonapple.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "2faf64a2-572d-4e93-a99c-3d1e65bedc16",
