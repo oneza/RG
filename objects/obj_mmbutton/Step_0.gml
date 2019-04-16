@@ -6,3 +6,17 @@ if (selected) {
 	room_goto(rm_start);
 	global.gameIsPaused = false;
 }
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Health
+/// @DnDVersion : 1
+/// @DnDHash : 3161D107
+/// @DnDArgument : "health" "100"
+
+__dnd_health = real(100);
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 1D6AE07D
+/// @DnDArgument : "score" "1"
+
+__dnd_score = real(1);
