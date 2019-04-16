@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1b61e2be-f5b2-4b2f-bdd9-d657cb3be68d",
+            "Value": {
+                "id": "8dc131fe-0887-4308-b39b-3ceef90a1a08",
+                "resourcePath": "objects\\obj_blackscreen\\obj_blackscreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "31c3dc07-7b35-431e-a534-e5f4a1e54b4d",
             "Value": {
                 "id": "35f19569-a37c-4caa-9af9-befeabf75306",
