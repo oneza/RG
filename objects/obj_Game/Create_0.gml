@@ -21,6 +21,6 @@ variable = __dnd_health;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 7230F4DF
-/// @DnDArgument : "code" "global.gameIsPaused = false;$(13_10)allObjects[0, 0] = noone;$(13_10)"
+/// @DnDArgument : "code" "global.gameIsPaused = false;$(13_10)allObjects[0, 0] = noone;"
 global.gameIsPaused = false;
 allObjects[0, 0] = noone;
