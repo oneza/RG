@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_dedsnake",
     "eventList": [
-        
+        {
+            "id": "57e24337-2129-4925-9062-06649b1d95da",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e2da99a7-f402-4033-86b0-5eaf8d843ead"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
