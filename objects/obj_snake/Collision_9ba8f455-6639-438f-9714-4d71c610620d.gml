@@ -48,9 +48,9 @@ if (!audio_is_playing(l18D8B7E7_0))
 /// @DnDVersion : 1
 /// @DnDHash : 1C7EB745
 /// @DnDArgument : "var" "health"
-/// @DnDArgument : "op" "4"
+/// @DnDArgument : "op" "2"
 /// @DnDArgument : "value" "94"
-if(health >= 94)
+if(health > 94)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
