@@ -30,9 +30,9 @@ switch(l5B9154C4_0)
 			/// @DnDHash : 29EC0052
 			/// @DnDParent : 1AC3B382
 			/// @DnDArgument : "objectid" "obj_blackscrinc"
-			/// @DnDArgument : "layer" ""Instances_1""
+			/// @DnDArgument : "layer" ""Instances_b""
 			/// @DnDSaveInfo : "objectid" "211d2718-f04f-4cac-8fa2-ea70618a1170"
-			instance_create_layer(0, 0, "Instances_1", obj_blackscrinc);
+			instance_create_layer(0, 0, "Instances_b", obj_blackscrinc);
 		}
 	
 		/// @DnDAction : YoYo Games.Common.If_Expression

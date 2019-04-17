@@ -10,7 +10,7 @@ if(selected == 1)
 	/// @DnDHash : 230F523B
 	/// @DnDParent : 4D5D2DE1
 	/// @DnDArgument : "objectid" "obj_blackscrinc"
-	/// @DnDArgument : "layer" ""Instances_1""
+	/// @DnDArgument : "layer" ""Instances_b""
 	/// @DnDSaveInfo : "objectid" "211d2718-f04f-4cac-8fa2-ea70618a1170"
-	instance_create_layer(0, 0, "Instances_1", obj_blackscrinc);
+	instance_create_layer(0, 0, "Instances_b", obj_blackscrinc);
 }

@@ -21,7 +21,7 @@ switch(l4428FE85_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 120DAC4F
 		/// @DnDParent : 37A72C1E
-		/// @DnDArgument : "code" "var lay_id = layer_get_id("GameBackground");$(13_10)var lay_idd = layer_get_id("Instances_1");$(13_10)var back_id = layer_background_get_id(lay_id);$(13_10)if(global.gameIsPaused == false) {$(13_10)	var offset = 0;$(13_10)	for(var i = 0; i < instance_count; i++){$(13_10)		if(instance_find(all, i).sprite_index != -1) {$(13_10)		allObjects[i-offset, 0] = instance_find(all,i).sprite_index;$(13_10)		allObjects[i-offset,1] = instance_find(all,i).image_index;$(13_10)		allObjects[i-offset,2] = instance_find(all,i).x;$(13_10)		allObjects[i-offset,3] = instance_find(all,i).y;$(13_10)		allObjects[i-offset,4] = instance_find(all,i).image_xscale;$(13_10)		allObjects[i-offset,5] = instance_find(all,i).image_yscale;$(13_10)		allObjects[i-offset,6] = instance_find(all,i).image_angle;$(13_10)		allObjects[i-offset,7] = instance_find(all,i).image_blend;$(13_10)		allObjects[i-offset,8] = instance_find(all,i).image_alpha;$(13_10)		}$(13_10)		else offset++;$(13_10)	}$(13_10)	instance_deactivate_all(true);$(13_10)	instance_activate_layer(lay_idd);$(13_10)	instance_activate_object(obj_mmbutton);$(13_10)	instance_activate_object(obj_continuebutton);$(13_10)	layer_vspeed(lay_id,0);$(13_10)	global.gameIsPaused = true;$(13_10)} else {$(13_10)	instance_activate_all();$(13_10)	instance_deactivate_object(obj_mmbutton);$(13_10)	instance_deactivate_object(obj_continuebutton);$(13_10)	layer_vspeed(lay_id,1.5);$(13_10)	global.gameIsPaused = false;$(13_10)	allObjects = 0;$(13_10)}"
+		/// @DnDArgument : "code" "var lay_id = layer_get_id("GameBackground");$(13_10)var lay_idd = layer_get_id("Instances_1");$(13_10)var back_id = layer_background_get_id(lay_id);$(13_10)if(global.gameIsPaused == false) {$(13_10)	var offset = 0;$(13_10)	for(var i = 0; i < instance_count; i++){$(13_10)		if(instance_find(all, i).sprite_index != -1) {$(13_10)		allObjects[i-offset, 0] = instance_find(all,i).sprite_index;$(13_10)		allObjects[i-offset,1] = instance_find(all,i).image_index;$(13_10)		allObjects[i-offset,2] = instance_find(all,i).x;$(13_10)		allObjects[i-offset,3] = instance_find(all,i).y;$(13_10)		allObjects[i-offset,4] = instance_find(all,i).image_xscale;$(13_10)		allObjects[i-offset,5] = instance_find(all,i).image_yscale;$(13_10)		allObjects[i-offset,6] = instance_find(all,i).image_angle;$(13_10)		allObjects[i-offset,7] = instance_find(all,i).image_blend;$(13_10)		allObjects[i-offset,8] = instance_find(all,i).image_alpha;$(13_10)		}$(13_10)		else offset++;$(13_10)	}$(13_10)	instance_deactivate_all(true);$(13_10)	instance_activate_layer(lay_idd);$(13_10)	instance_activate_object(obj_mmbutton);$(13_10)	instance_activate_object(obj_continuebutton);$(13_10)	layer_vspeed(lay_id,0);$(13_10)	global.gameIsPaused = true;$(13_10)} else {$(13_10)	instance_activate_all();$(13_10)	instance_deactivate_object(obj_mmbutton);$(13_10)	instance_deactivate_object(obj_continuebutton);$(13_10)	instance_deactivate_object(obj_statusBar1);$(13_10)	instance_deactivate_object(obj_scoreabove);$(13_10)	layer_vspeed(lay_id,1.5);$(13_10)	global.gameIsPaused = false;$(13_10)	allObjects = 0;$(13_10)}"
 		var lay_id = layer_get_id("GameBackground");
 		var lay_idd = layer_get_id("Instances_1");
 		var back_id = layer_background_get_id(lay_id);
@@ -51,6 +51,8 @@ switch(l4428FE85_0)
 			instance_activate_all();
 			instance_deactivate_object(obj_mmbutton);
 			instance_deactivate_object(obj_continuebutton);
+			instance_deactivate_object(obj_statusBar1);
+			instance_deactivate_object(obj_scoreabove);
 			layer_vspeed(lay_id,1.5);
 			global.gameIsPaused = false;
 			allObjects = 0;
@@ -70,8 +72,9 @@ switch(l4428FE85_0)
 			/// @DnDArgument : "xpos" "215"
 			/// @DnDArgument : "ypos" "400"
 			/// @DnDArgument : "objectid" "obj_mmbutton"
+			/// @DnDArgument : "layer" ""Instances_2""
 			/// @DnDSaveInfo : "objectid" "6e2040af-a8f0-4e52-ba4c-e41d24682f8a"
-			instance_create_layer(215, 400, "Instances", obj_mmbutton);
+			instance_create_layer(215, 400, "Instances_2", obj_mmbutton);
 		
 			/// @DnDAction : YoYo Games.Instances.Create_Instance
 			/// @DnDVersion : 1
@@ -80,8 +83,27 @@ switch(l4428FE85_0)
 			/// @DnDArgument : "xpos" "215"
 			/// @DnDArgument : "ypos" "460"
 			/// @DnDArgument : "objectid" "obj_continuebutton"
+			/// @DnDArgument : "layer" ""Instances_2""
 			/// @DnDSaveInfo : "objectid" "8dbd31dd-a40a-4d77-ad29-61afaa18baa3"
-			instance_create_layer(215, 460, "Instances", obj_continuebutton);
+			instance_create_layer(215, 460, "Instances_2", obj_continuebutton);
+		
+			/// @DnDAction : YoYo Games.Instances.Create_Instance
+			/// @DnDVersion : 1
+			/// @DnDHash : 374FBA9A
+			/// @DnDParent : 5AA1E997
+			/// @DnDArgument : "objectid" "obj_statusBar1"
+			/// @DnDArgument : "layer" ""Instances_2""
+			/// @DnDSaveInfo : "objectid" "b6eb1da0-dcf7-4e96-ad95-44e8abc45ec7"
+			instance_create_layer(0, 0, "Instances_2", obj_statusBar1);
+		
+			/// @DnDAction : YoYo Games.Instances.Create_Instance
+			/// @DnDVersion : 1
+			/// @DnDHash : 082A358B
+			/// @DnDParent : 5AA1E997
+			/// @DnDArgument : "objectid" "obj_scoreabove"
+			/// @DnDArgument : "layer" ""Instances_b""
+			/// @DnDSaveInfo : "objectid" "a070e2b7-c2f9-47e2-8048-29c93bd78620"
+			instance_create_layer(0, 0, "Instances_b", obj_scoreabove);
 		
 			/// @DnDAction : YoYo Games.Audio.Pause_All_Audio
 			/// @DnDVersion : 1
