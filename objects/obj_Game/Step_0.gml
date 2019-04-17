@@ -25,13 +25,14 @@ switch(l5B9154C4_0)
 		/// @DnDArgument : "op" "3"
 		if(health <= 0)
 		{
-			/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+			/// @DnDAction : YoYo Games.Instances.Create_Instance
 			/// @DnDVersion : 1
-			/// @DnDHash : 70C36F8C
+			/// @DnDHash : 29EC0052
 			/// @DnDParent : 1AC3B382
-			/// @DnDArgument : "room" "rm_death"
-			/// @DnDSaveInfo : "room" "38e41fb5-debd-45f1-b18f-86f4ef1b3143"
-			room_goto(rm_death);
+			/// @DnDArgument : "objectid" "obj_blackscrinc"
+			/// @DnDArgument : "layer" ""Instances_1""
+			/// @DnDSaveInfo : "objectid" "211d2718-f04f-4cac-8fa2-ea70618a1170"
+			instance_create_layer(0, 0, "Instances_1", obj_blackscrinc);
 		}
 	
 		/// @DnDAction : YoYo Games.Common.If_Expression

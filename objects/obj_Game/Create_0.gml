@@ -24,3 +24,10 @@ variable = __dnd_health;
 /// @DnDArgument : "code" "global.gameIsPaused = false;$(13_10)allObjects[0, 0] = noone;$(13_10)"
 global.gameIsPaused = false;
 allObjects[0, 0] = noone;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3E558BD6
+/// @DnDArgument : "expr" "60"
+/// @DnDArgument : "var" "mytimer"
+mytimer = 60;

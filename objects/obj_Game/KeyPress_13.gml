@@ -32,13 +32,14 @@ switch(l34FCA135_0)
 		
 		__dnd_score = real(0);
 	
-		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+		/// @DnDAction : YoYo Games.Instances.Create_Instance
 		/// @DnDVersion : 1
-		/// @DnDHash : 0533A4D8
+		/// @DnDHash : 7887473B
 		/// @DnDParent : 29545DD2
-		/// @DnDArgument : "room" "rm_game"
-		/// @DnDSaveInfo : "room" "467b1678-63f8-44c5-977b-02cf8aaef0b0"
-		room_goto(rm_game);
+		/// @DnDArgument : "objectid" "obj_blackscrinc"
+		/// @DnDArgument : "layer" ""Instances_1""
+		/// @DnDSaveInfo : "objectid" "211d2718-f04f-4cac-8fa2-ea70618a1170"
+		instance_create_layer(0, 0, "Instances_1", obj_blackscrinc);
 		break;
 
 	/// @DnDAction : YoYo Games.Switch.Case
