@@ -170,8 +170,8 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 290B0F94
 	/// @DnDParent : 39E1C7D6
-	/// @DnDArgument : "expr" "5"
+	/// @DnDArgument : "expr" "6"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "health"
-	health += 5;
+	health += 6;
 }
