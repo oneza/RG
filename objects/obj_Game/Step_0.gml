@@ -19,23 +19,6 @@ switch(l5B9154C4_0)
 	case rm_game:
 		/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDVersion : 1
-		/// @DnDHash : 60632BDE
-		/// @DnDParent : 3BBE181E
-		/// @DnDArgument : "var" "score"
-		/// @DnDArgument : "op" "2"
-		/// @DnDArgument : "value" "3000"
-		if(score > 3000)
-		{
-			/// @DnDAction : YoYo Games.Common.Execute_Code
-			/// @DnDVersion : 1
-			/// @DnDHash : 0097C935
-			/// @DnDParent : 60632BDE
-			/// @DnDArgument : "code" "layer_background_speed("GameBackground", 2.2)"
-			layer_background_speed("GameBackground", 2.2)
-		}
-	
-		/// @DnDAction : YoYo Games.Common.If_Variable
-		/// @DnDVersion : 1
 		/// @DnDHash : 1AC3B382
 		/// @DnDParent : 3BBE181E
 		/// @DnDArgument : "var" "health"

@@ -17,5 +17,5 @@ if(!(global.gameIsPaused))
 	/// @DnDHash : 2F78E0CB
 	/// @DnDApplyTo : 8dbd31dd-a40a-4d77-ad29-61afaa18baa3
 	/// @DnDParent : 39312C98
-	with(obj_continuebutton) instance_destroy();
+	with(obj_resumebutton) instance_destroy();
 }
