@@ -655,6 +655,14 @@
             }
         },
         {
+            "Key": "9e30cf6e-87a0-44ac-a354-bd7b425e8d86",
+            "Value": {
+                "id": "4fbeca5b-26ed-41e2-939d-6c0d688ec6ff",
+                "resourcePath": "objects\\obj_blackscrdeconstart\\obj_blackscrdeconstart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9ef0cc96-19bc-4ffe-bdf3-38e36882dad8",
             "Value": {
                 "id": "d14a8d34-9c4b-4c53-aa43-ab055d7850be",
@@ -940,6 +948,14 @@
                 "id": "afaaaf24-cc7f-4c1b-9372-fccbc14c9d69",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f94eb0a0-121c-461d-837e-390d86adf8b0",
+            "Value": {
+                "id": "1031a8eb-5b2f-40a2-8f95-94294669ac3a",
+                "resourcePath": "objects\\obj_blackscrincformenu\\obj_blackscrincformenu.yy",
+                "resourceType": "GMObject"
             }
         },
         {
