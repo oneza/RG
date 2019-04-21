@@ -21,9 +21,14 @@ variable = __dnd_health;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 7230F4DF
-/// @DnDArgument : "code" "global.gameIsPaused = false;$(13_10)allObjects[0, 0] = noone;$(13_10)"
+/// @DnDArgument : "code" "global.gameIsPaused = false;$(13_10)allObjects[0, 0] = noone;$(13_10)ini_open("scores.ini");$(13_10)for (i = 0; i < 10; i++){$(13_10)	global.score_array[i, 0] = "unknown";$(13_10)	global.score_array[i, 1] = 0;$(13_10)}$(13_10)"
 global.gameIsPaused = false;
 allObjects[0, 0] = noone;
+ini_open("scores.ini");
+for (i = 0; i < 10; i++){
+	global.score_array[i, 0] = "unknown";
+	global.score_array[i, 1] = 0;
+}
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

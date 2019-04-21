@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1994629c-4185-49e8-afb4-65f34be66e0f",
+            "Value": {
+                "id": "377e6f35-a59a-4a88-b248-79fb5f3ebb9e",
+                "resourcePath": "objects\\obj_drawleaderboard\\obj_drawleaderboard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1cf5eeb8-c433-4749-8760-b93fa72e7e0b",
             "Value": {
                 "id": "1bc0d524-bd66-49ab-ad34-6c012efa559d",
@@ -124,6 +132,14 @@
                 "id": "93f2b397-cc30-41bc-a161-105405913116",
                 "resourcePath": "objects\\obj_blackscrinc\\obj_blackscrinc.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "22150a48-d685-40f0-9a58-ac121d66678f",
+            "Value": {
+                "id": "8ba34ada-2c0a-4c8c-bb58-c52885e15f9b",
+                "resourcePath": "rooms\\rm_leaderboard\\rm_leaderboard.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -895,6 +911,14 @@
             }
         },
         {
+            "Key": "e564abf2-80ac-4ab1-9335-32e01722ebdd",
+            "Value": {
+                "id": "9bdbdf21-4aae-4d07-b6fa-f41033e7973b",
+                "resourcePath": "objects\\obj_submitscore\\obj_submitscore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea855e60-9999-41f1-95fe-dd5c09a60772",
             "Value": {
                 "id": "442e25f9-58fb-4c59-84dd-be50e06b39fa",
@@ -963,6 +987,14 @@
             "Value": {
                 "id": "c2129027-7993-460b-ab39-2f89532a5974",
                 "resourcePath": "sprites\\spr_snake_sc_HD\\spr_snake_sc_HD.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fb621a8e-902f-402c-a240-0208716ee8e1",
+            "Value": {
+                "id": "3dd6a1c3-82d0-4c9c-bdac-97f55d3caa87",
+                "resourcePath": "sprites\\spr_submitbutton\\spr_submitbutton.yy",
                 "resourceType": "GMSprite"
             }
         },
