@@ -1,11 +1,7 @@
-/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
-/// @DnDVersion : 1.1
-/// @DnDHash : 51EB4096
-/// @DnDArgument : "direction" "270"
-direction = 270;
-
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 03FF7AB1
-/// @DnDArgument : "speed" "1.5"
-speed = 1.5;
+/// @DnDHash : 7462368F
+/// @DnDArgument : "code" "if (score mod 500 = 0 && score != 0){$(13_10)	obj_realapple.speed += 0.1;$(13_10)}"
+if (score mod 500 = 0 && score != 0){
+	obj_realapple.speed += 0.1;
+}

@@ -17,6 +17,33 @@ switch(l5B9154C4_0)
 	/// @DnDParent : 5B9154C4
 	/// @DnDArgument : "const" "rm_game"
 	case rm_game:
+		/// @DnDAction : YoYo Games.Common.Apply_To
+		/// @DnDVersion : 1
+		/// @DnDHash : 703C2A3C
+		/// @DnDApplyTo : 6115b2cb-c532-4357-a73e-351f9e2b38d1
+		/// @DnDParent : 3BBE181E
+		with(obj_Game) {
+			/// @DnDAction : YoYo Games.Instance Variables.Get_Score
+			/// @DnDVersion : 1
+			/// @DnDHash : 176C3C0C
+			/// @DnDParent : 703C2A3C
+			/// @DnDArgument : "var" "score"
+			if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+			score = __dnd_score;
+		}
+	
+		/// @DnDAction : YoYo Games.Common.Execute_Code
+		/// @DnDVersion : 1
+		/// @DnDHash : 25E3AEB6
+		/// @DnDParent : 3BBE181E
+		/// @DnDArgument : "code" "var lay_id = layer_get_id("GameBackground");$(13_10)var back_id = layer_background_get_id(lay_id);$(13_10)Speed = 1.5;$(13_10)if (score mod 500 = 0){$(13_10)	layer_vspeed(lay_id, Speed + 0.1);$(13_10)}"
+		var lay_id = layer_get_id("GameBackground");
+		var back_id = layer_background_get_id(lay_id);
+		Speed = 1.5;
+		if (score mod 500 = 0){
+			layer_vspeed(lay_id, Speed + 0.1);
+		}
+	
 		/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 1AC3B382
