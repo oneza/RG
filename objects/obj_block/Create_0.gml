@@ -16,3 +16,15 @@ sprite_index = floor(random_range(1, 3 + 1));
 /// @DnDArgument : "option_1" "spr_block1"
 /// @DnDArgument : "option_2" "spr_block3"
 sprite_index = choose(spr_block2, spr_block1, spr_block3);
+
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
+/// @DnDVersion : 1.1
+/// @DnDHash : 09CD5CC0
+/// @DnDArgument : "direction" "270"
+direction = 270;
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 487CD9A3
+/// @DnDArgument : "speed" "1.5"
+speed = 1.5;
