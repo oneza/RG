@@ -36,13 +36,13 @@ switch(l5B9154C4_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 25E3AEB6
 		/// @DnDParent : 3BBE181E
-		/// @DnDArgument : "code" "var lay_id = layer_get_id("GameBackground");$(13_10)var back_id = layer_background_get_id(lay_id);$(13_10)Speed = 1.5;$(13_10)if (score mod 500 = 0){$(13_10)	layer_vspeed(lay_id, Speed + 0.1);$(13_10)}"
+		/// @DnDArgument : "code" "var lay_id = layer_get_id("GameBackground");$(13_10)var back_id = layer_background_get_id(lay_id);$(13_10)//Speed = 1.5;$(13_10)//if (score mod 500 = 0){$(13_10)//	layer_vspeed(lay_id, Speed + 0.1);$(13_10)//}"
 		var lay_id = layer_get_id("GameBackground");
 		var back_id = layer_background_get_id(lay_id);
-		Speed = 1.5;
-		if (score mod 500 = 0){
-			layer_vspeed(lay_id, Speed + 0.1);
-		}
+		//Speed = 1.5;
+		//if (score mod 500 = 0){
+		//	layer_vspeed(lay_id, Speed + 0.1);
+		//}
 	
 		/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDVersion : 1
