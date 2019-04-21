@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "54a71ad6-a1dd-4eaf-8450-088dc166282f",
+            "Value": {
+                "id": "cad01309-578c-480a-9bdd-9dd6234b8fc0",
+                "resourcePath": "sprites\\spr_sand\\spr_sand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "591bcca7-1b19-47a1-a79e-19f175b7d5bf",
             "Value": {
                 "id": "705582f1-a2f5-4cd1-bbd3-29664506ef36",
