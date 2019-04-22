@@ -9,7 +9,9 @@
         "6e2040af-a8f0-4e52-ba4c-e41d24682f8a",
         "8dbd31dd-a40a-4d77-ad29-61afaa18baa3",
         "9a139be6-096e-45d0-8cbf-a355d6dab48c",
-        "e564abf2-80ac-4ab1-9335-32e01722ebdd"
+        "e564abf2-80ac-4ab1-9335-32e01722ebdd",
+        "553b0b4f-f263-4eea-a82e-9260022cdc19",
+        "06ca74f9-6b20-46cc-bbb0-ae07a5c325a4"
     ],
     "filterType": "GMObject",
     "folderName": "buttons",
