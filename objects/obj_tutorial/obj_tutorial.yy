@@ -5,13 +5,33 @@
     "name": "obj_tutorial",
     "eventList": [
         {
-            "id": "cf21a245-07d1-4cfa-8d13-759ada8b09a3",
+            "id": "d3cd8f14-35ab-4924-952c-b2614cedd7c8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "681d3b91-950b-480a-9f86-786c20f54ecf"
+        },
+        {
+            "id": "2766084d-e59f-435c-b058-e7683c3d2d97",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "681d3b91-950b-480a-9f86-786c20f54ecf"
+        },
+        {
+            "id": "2bbef9fb-6c5f-40bf-bd09-d78714a45d7a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
             "m_owner": "681d3b91-950b-480a-9f86-786c20f54ecf"
         }
     ],
