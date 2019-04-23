@@ -36,7 +36,7 @@
                     "LayerId": "9fa32bf8-0f74-47ef-8397-87ebed364c98"
                 },
                 {
-                    "id": "75fa43b5-2daf-4e45-a755-a70a6b7ee0ad",
+                    "id": "f1013993-3444-4f92-97ac-0f702cccbfad",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
                     "FrameId": "36d06924-f500-4801-849a-6447662b1792",

@@ -5,16 +5,6 @@
     "name": "obj_hphint",
     "eventList": [
         {
-            "id": "518dcc4b-7018-4432-ac52-52544022e33a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "367f3261-5646-4520-85be-7a9f3bbe665d"
-        },
-        {
             "id": "7c8919aa-7a4d-4399-8ce3-f02ecc425b27",
             "modelName": "GMEvent",
             "mvc": "1.0",
