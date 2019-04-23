@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "239b1ad8-e404-4443-a9fc-ea23fa1756eb",
+            "Value": {
+                "id": "be1a5d6f-4f9c-487f-97f6-65c6a45f2e82",
+                "resourcePath": "objects\\testobj11\\testobj11.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2826ce9f-6f11-483a-a384-76680bab9002",
             "Value": {
                 "id": "de5b0415-ada0-4e0d-bb32-26f5bca2aba7",
@@ -290,7 +298,7 @@
             "Key": "432814e8-7660-4395-bcd1-57cff38c0a61",
             "Value": {
                 "id": "27c0ff04-66f9-4c21-954a-2e777b3651be",
-                "resourcePath": "sprites\\spr_block2\\spr_block2.yy",
+                "resourcePath": "sprites\\spr_blockcty1\\spr_blockcty1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -436,6 +444,14 @@
                 "id": "6cee9029-1632-40ba-a4d7-ddb8475015ff",
                 "resourcePath": "objects\\obj_Game\\obj_Game.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6341db0a-12de-4475-96e9-d11e6b3583ba",
+            "Value": {
+                "id": "210cc8e8-555e-4cf0-9a19-ae49e9224ade",
+                "resourcePath": "sprites\\spr_block2\\spr_block2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -636,14 +652,6 @@
                 "id": "0a58e2d1-2bc2-45b8-88b5-ee6647eeaddb",
                 "resourcePath": "views\\869c2c53-e746-42a5-9bd5-f857a747f846.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8700d95c-4621-4e6e-b9d7-8887c8f6c51c",
-            "Value": {
-                "id": "63d37afe-f9c6-43eb-bdfc-b0fa43353106",
-                "resourcePath": "sprites\\spr_blockcty1\\spr_blockcty1.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -908,6 +916,14 @@
                 "id": "3e818c09-c40d-42e9-8134-b604ae80b1ac",
                 "resourcePath": "sounds\\snd_snakeoncrash1\\snd_snakeoncrash1.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c2959d3e-4718-44cd-8886-07a3f5dd6d86",
+            "Value": {
+                "id": "8f98aa93-ca32-4504-86f6-cc9bbe07078c",
+                "resourcePath": "sprites\\spr_blocksnd3\\spr_blocksnd3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
