@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "3c5b106c-ebba-4d89-b3a5-4b00cf17d295",
+            "Value": {
+                "id": "8e7a0b6f-cbcb-407f-954f-025976193be7",
+                "resourcePath": "sprites\\spr_blockhint\\spr_blockhint.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3cb67347-5bb4-4d5f-b0df-eeff209e7eda",
             "Value": {
                 "id": "daebe0d6-4b86-4eaf-bf78-10a54a86849d",
@@ -775,6 +783,14 @@
             }
         },
         {
+            "Key": "93a32d21-a8ed-4ad6-80ae-c6907c0a1b53",
+            "Value": {
+                "id": "f8003571-1517-4fc6-9b6f-2896113ad149",
+                "resourcePath": "sprites\\spr_controlshint\\spr_controlshint.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9404c4d9-ba91-49ca-9de4-0bf525a2e2c9",
             "Value": {
                 "id": "80214243-75d6-4ea9-aa00-3c65474a978b",
@@ -940,6 +956,14 @@
                 "id": "13bb89cf-8ae2-41c1-bdf9-29aa31739be3",
                 "resourcePath": "fonts\\fn_game_name_qm\\fn_game_name_qm.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "b6372fc7-d25c-4ef4-afde-53c9806d3e1b",
+            "Value": {
+                "id": "62b46a14-9c98-4379-95e2-07b2294cdadd",
+                "resourcePath": "sprites\\sprite45\\sprite45.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

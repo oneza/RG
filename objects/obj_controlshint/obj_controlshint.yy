@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_controlshint",
     "eventList": [
-        
+        {
+            "id": "a6bb67f8-e35b-4adc-9ff1-7f158a8f2dbf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "66a5dc28-6c7f-400d-88a6-3da4ad43ae37"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "93a32d21-a8ed-4ad6-80ae-c6907c0a1b53",
     "visible": true
 }
