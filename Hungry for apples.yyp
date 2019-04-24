@@ -90,7 +90,7 @@
             "Key": "09d24553-7dda-48ca-a97e-65a15df70074",
             "Value": {
                 "id": "f3da89b2-bed6-42cd-9ea8-c046887e11b1",
-                "resourcePath": "sprites\\spr_snake\\spr_snake.yy",
+                "resourcePath": "sprites\\spr_snake_new_but_old\\spr_snake_new_but_old.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -626,7 +626,7 @@
             "Key": "789061f8-809e-4430-8818-7a32ad34715f",
             "Value": {
                 "id": "6619a019-6c91-4524-851e-659076f3a1b4",
-                "resourcePath": "sprites\\spr_snake_old\\spr_snake_old.yy",
+                "resourcePath": "sprites\\spr_snake\\spr_snake.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -692,6 +692,14 @@
                 "id": "8d1f5c68-2e81-432b-b4ba-d6c6b37c3803",
                 "resourcePath": "views\\84318dd0-3d4f-4de3-b277-399e40d257d4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "84d95025-de2d-4c7d-8f55-cc2206a13f60",
+            "Value": {
+                "id": "5004804e-3835-460d-9120-2199bf8f8c9f",
+                "resourcePath": "sprites\\spr_snakeblackandyellow\\spr_snakeblackandyellow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -927,6 +935,14 @@
             }
         },
         {
+            "Key": "ab0b3f33-75e8-4f09-9521-5f9ff67f0441",
+            "Value": {
+                "id": "be2cb0bc-467a-4b09-a0d4-32a5f62ff5de",
+                "resourcePath": "sprites\\spr_snakemexican\\spr_snakemexican.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ab1d3fcc-d70e-4048-9d65-31b54912c817",
             "Value": {
                 "id": "2a794d7d-16cb-4631-bba4-ffe368363c5f",
@@ -956,6 +972,14 @@
                 "id": "13bb89cf-8ae2-41c1-bdf9-29aa31739be3",
                 "resourcePath": "fonts\\fn_game_name_qm\\fn_game_name_qm.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "b51ff144-aba2-4d97-8f38-c4e97f6faf81",
+            "Value": {
+                "id": "17a52ecc-5246-4ed5-a7f3-fef317af381f",
+                "resourcePath": "sprites\\spr_snakerainbow\\spr_snakerainbow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
