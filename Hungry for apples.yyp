@@ -106,7 +106,7 @@
             "Key": "0c93d18a-3681-4ea9-b645-df05a0117774",
             "Value": {
                 "id": "becf9b86-3944-447b-8286-9f855f850d82",
-                "resourcePath": "objects\\object49\\object49.yy",
+                "resourcePath": "objects\\obj_defaultpopup\\obj_defaultpopup.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -370,7 +370,7 @@
             "Key": "3adf409f-c512-4fa3-b7a3-8b100d5c1428",
             "Value": {
                 "id": "e75366a9-da21-482a-a796-5e4a379f455b",
-                "resourcePath": "objects\\object51\\object51.yy",
+                "resourcePath": "objects\\obj_mexpopup\\obj_mexpopup.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -716,6 +716,14 @@
                 "id": "7f304545-c4c6-431a-8843-415419802b84",
                 "resourcePath": "objects\\obj_defaultsnakebutton\\obj_defaultsnakebutton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "75a5abff-f666-4db7-ab9b-e6d810fcfaca",
+            "Value": {
+                "id": "ad0b964b-e917-4f39-bb4d-36e033aecacc",
+                "resourcePath": "fonts\\fn_popups\\fn_popups.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -1346,7 +1354,7 @@
             "Key": "d82db4b6-7e4b-44b9-8cf4-b38fcda006e2",
             "Value": {
                 "id": "2bb3331b-74a3-48b6-b16e-5b711ba181cf",
-                "resourcePath": "objects\\object50\\object50.yy",
+                "resourcePath": "objects\\obj_rainbowpopup\\obj_rainbowpopup.yy",
                 "resourceType": "GMObject"
             }
         },

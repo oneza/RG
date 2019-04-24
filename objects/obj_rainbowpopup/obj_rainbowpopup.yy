@@ -1,8 +1,8 @@
 {
-    "id": "0c93d18a-3681-4ea9-b645-df05a0117774",
+    "id": "d82db4b6-7e4b-44b9-8cf4-b38fcda006e2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object49",
+    "name": "obj_rainbowpopup",
     "eventList": [
         
     ],
