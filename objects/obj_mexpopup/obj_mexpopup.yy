@@ -2,7 +2,7 @@
     "id": "3adf409f-c512-4fa3-b7a3-8b100d5c1428",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object51",
+    "name": "obj_mexpopup",
     "eventList": [
         
     ],
