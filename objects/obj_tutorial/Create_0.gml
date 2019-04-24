@@ -7,3 +7,16 @@ global.timer = 0;
 	instance_create_layer(0, 0, "instances_2", obj_hphint);
 }
 *//**/
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 7FC5A54F
+
+__dnd_score = real(0);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6C601C57
+/// @DnDArgument : "expr" "100"
+/// @DnDArgument : "var" "local_health"
+local_health = 100;

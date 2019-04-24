@@ -63,5 +63,20 @@ if(mytimer <= 0)
 			/// @DnDSaveInfo : "room" "38e41fb5-debd-45f1-b18f-86f4ef1b3143"
 			room_goto(rm_death);
 			break;
+	
+		/// @DnDAction : YoYo Games.Switch.Case
+		/// @DnDVersion : 1
+		/// @DnDHash : 647F98B6
+		/// @DnDParent : 2559C2B9
+		/// @DnDArgument : "const" "rm_tutorial"
+		case rm_tutorial:
+			/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+			/// @DnDVersion : 1
+			/// @DnDHash : 49EB3945
+			/// @DnDParent : 647F98B6
+			/// @DnDArgument : "room" "rm_start"
+			/// @DnDSaveInfo : "room" "3cb67347-5bb4-4d5f-b0df-eeff209e7eda"
+			room_goto(rm_start);
+			break;
 	}
 }
