@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "2dc3eca8-cd77-4b03-9244-978a47702a1c",
+            "Value": {
+                "id": "824fcfba-8617-4448-8756-2d2fdb697861",
+                "resourcePath": "objects\\obj_mexicansnakebutton\\obj_mexicansnakebutton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "30cc0b62-c2ed-4704-89cb-c0cf2f537765",
             "Value": {
                 "id": "b037c099-0fc9-4dbc-8142-05700e3a1134",
@@ -212,6 +220,14 @@
                 "id": "95b31f46-5190-4de0-a792-72d232f1607d",
                 "resourcePath": "sprites\\spr_block1\\spr_block1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3302196a-8612-4357-b0cd-913273b29ea3",
+            "Value": {
+                "id": "24fa34c7-1b07-4fcd-a94d-8e6da0d03efd",
+                "resourcePath": "objects\\obj_rainbowsnakebutton\\obj_rainbowsnakebutton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -607,6 +623,14 @@
             }
         },
         {
+            "Key": "756aba1e-904c-4736-9ef9-241171d310b6",
+            "Value": {
+                "id": "7f304545-c4c6-431a-8843-415419802b84",
+                "resourcePath": "objects\\obj_defaultsnakebutton\\obj_defaultsnakebutton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "e32d042c-8d28-44e2-b5d0-5bf8b9c3bc6d",
@@ -967,6 +991,14 @@
             }
         },
         {
+            "Key": "aea0f6af-2ea8-4c74-9cbc-9ef311ebe258",
+            "Value": {
+                "id": "63af3806-c3a3-48e5-a95d-2e6c2217d34e",
+                "resourcePath": "views\\aea0f6af-2ea8-4c74-9cbc-9ef311ebe258.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b22c9947-da7d-41a3-a2db-01cf04aa5231",
             "Value": {
                 "id": "13bb89cf-8ae2-41c1-bdf9-29aa31739be3",
@@ -986,7 +1018,7 @@
             "Key": "b6372fc7-d25c-4ef4-afde-53c9806d3e1b",
             "Value": {
                 "id": "62b46a14-9c98-4379-95e2-07b2294cdadd",
-                "resourcePath": "sprites\\sprite45\\sprite45.yy",
+                "resourcePath": "sprites\\spr_customizationbutton\\spr_customizationbutton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1036,6 +1068,14 @@
                 "id": "3e818c09-c40d-42e9-8134-b604ae80b1ac",
                 "resourcePath": "sounds\\snd_snakeoncrash1\\snd_snakeoncrash1.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c086c7f4-c531-4214-b94e-c83f23b9c09b",
+            "Value": {
+                "id": "2cb8a09f-cb66-498b-92d5-df04d4202242",
+                "resourcePath": "rooms\\rm_customization\\rm_customization.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1140,6 +1180,14 @@
                 "id": "c727d71a-fa4c-475b-bf43-56e6be78cbfd",
                 "resourcePath": "sprites\\spr_blockcty2\\spr_blockcty2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dbc3a59a-8397-446c-8c99-55d599d9d54e",
+            "Value": {
+                "id": "0de031c2-e6b7-4d72-9e98-125a465d84ca",
+                "resourcePath": "objects\\obj_blackandyellowsnakebutton\\obj_blackandyellowsnakebutton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1299,6 +1347,14 @@
             "Value": {
                 "id": "1031a8eb-5b2f-40a2-8f95-94294669ac3a",
                 "resourcePath": "objects\\obj_blackscrincformenu\\obj_blackscrincformenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f9b6ce99-6964-43d4-9c21-3d84063d8fd1",
+            "Value": {
+                "id": "31c90010-b0d6-4bc9-ab7e-59a201e654eb",
+                "resourcePath": "objects\\obj_customizationbutton\\obj_customizationbutton.yy",
                 "resourceType": "GMObject"
             }
         },
