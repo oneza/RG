@@ -8,7 +8,8 @@
         "f4c033ca-f1ca-476b-b60f-0745aa306906",
         "9bfe06cf-8c5c-4226-bdc5-a3d46ca951eb",
         "111a42be-8450-4c1c-a28b-ee6ff6e6d6c8",
-        "3c1988de-2a1f-445c-8291-2ddd48c4d83a"
+        "3c1988de-2a1f-445c-8291-2ddd48c4d83a",
+        "1f95c3ed-1240-43f5-8e59-cb5e176c2078"
     ],
     "filterType": "GMSound",
     "folderName": "snd_globalmusic",
