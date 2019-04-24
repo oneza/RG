@@ -1,10 +1,3 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
-/// @DnDVersion : 1
-/// @DnDHash : 4B5B6EAA
-/// @DnDArgument : "sprite" "spr_status_bar"
-/// @DnDSaveInfo : "sprite" "ea855e60-9999-41f1-95fe-dd5c09a60772"
-draw_sprite(spr_status_bar, 0, 0, 0);
-
 /// @DnDAction : YoYo Games.Drawing.Draw_Healthbar
 /// @DnDVersion : 1
 /// @DnDHash : 41EEA28D
