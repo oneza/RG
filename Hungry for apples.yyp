@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "0c5365db-d26d-4227-b433-17138b4c7745",
+            "Value": {
+                "id": "889f20d5-1ecf-44b4-9581-cbe60d04b509",
+                "resourcePath": "objects\\obj_goto_city_changer\\obj_goto_city_changer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c93d18a-3681-4ea9-b645-df05a0117774",
             "Value": {
                 "id": "becf9b86-3944-447b-8286-9f855f850d82",
@@ -684,6 +692,14 @@
                 "id": "f573f00b-bd52-451a-891d-5dcf9ff10529",
                 "resourcePath": "views\\6e227e12-dcdd-4f92-a8e3-c9180eada18a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "700e5711-814e-4a4a-8ea7-595bc8be958a",
+            "Value": {
+                "id": "8354b366-cd43-43c1-ba26-5cb9be485add",
+                "resourcePath": "objects\\obj_goto_sand_changer\\obj_goto_sand_changer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
