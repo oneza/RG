@@ -92,22 +92,22 @@ switch(l4428FE85_0)
 					/// @DnDHash : 2C410DD0
 					/// @DnDParent : 5AA1E997
 					/// @DnDArgument : "xpos" "190"
-					/// @DnDArgument : "ypos" "460"
+					/// @DnDArgument : "ypos" "400"
 					/// @DnDArgument : "objectid" "obj_resumebutton"
 					/// @DnDArgument : "layer" ""Instances_2""
 					/// @DnDSaveInfo : "objectid" "8dbd31dd-a40a-4d77-ad29-61afaa18baa3"
-					instance_create_layer(190, 460, "Instances_2", obj_resumebutton);
+					instance_create_layer(190, 400, "Instances_2", obj_resumebutton);
 				
 					/// @DnDAction : YoYo Games.Instances.Create_Instance
 					/// @DnDVersion : 1
 					/// @DnDHash : 6716DEC7
 					/// @DnDParent : 5AA1E997
 					/// @DnDArgument : "xpos" "215"
-					/// @DnDArgument : "ypos" "400"
+					/// @DnDArgument : "ypos" "460"
 					/// @DnDArgument : "objectid" "obj_mmbutton"
 					/// @DnDArgument : "layer" ""Instances_2""
 					/// @DnDSaveInfo : "objectid" "6e2040af-a8f0-4e52-ba4c-e41d24682f8a"
-					instance_create_layer(215, 400, "Instances_2", obj_mmbutton);
+					instance_create_layer(215, 460, "Instances_2", obj_mmbutton);
 				
 					/// @DnDAction : YoYo Games.Instances.Create_Instance
 					/// @DnDVersion : 1
