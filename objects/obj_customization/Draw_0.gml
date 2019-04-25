@@ -27,3 +27,13 @@ if(object_get_sprite(obj_snake) == spr_snake){
 	object_set_sprite(obj_rainbowsnakebutton, spr_snrainbow);
 	object_set_sprite(obj_blackandyellowsnakebutton, spr_snbay_selected);
 }
+
+if(global.skins[1, 1] == 0){
+	object_set_sprite(obj_mexicansnakebutton, spr_sn_locked);
+}
+if (global.skins[0, 1] == 0) {
+	object_set_sprite(obj_blackandyellowsnakebutton, spr_sn_locked);
+}
+if (global.skins[2, 1] == 0) {
+	object_set_sprite(obj_rainbowsnakebutton, spr_sn_locked);
+}
