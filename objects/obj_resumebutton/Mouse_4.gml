@@ -29,17 +29,11 @@ if(global.gameIsPaused)
 	/// @DnDArgument : "sound" "snd_game"
 	/// @DnDSaveInfo : "sound" "111a42be-8450-4c1c-a28b-ee6ff6e6d6c8"
 	audio_resume_sound(snd_game);
-}
 
-/// @DnDAction : YoYo Games.Common.Else
-/// @DnDVersion : 1
-/// @DnDHash : 3ACC451E
-else
-{
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 4E9F9B65
 	/// @DnDApplyTo : 0e2ed5ac-0fc8-4069-a5ba-42ac09e49e7c
-	/// @DnDParent : 3ACC451E
+	/// @DnDParent : 2911BDE9
 	with(obj_pauseblock) instance_destroy();
 }
