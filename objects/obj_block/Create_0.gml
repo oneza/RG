@@ -21,8 +21,8 @@ if(score < 49500)
 	/// @DnDParent : 46F46E78
 	/// @DnDArgument : "var" "score"
 	/// @DnDArgument : "op" "1"
-	/// @DnDArgument : "value" "500"
-	if(score < 500)
+	/// @DnDArgument : "value" "24500"
+	if(score < 24500)
 	{
 		/// @DnDAction : YoYo Games.Random.Choose
 		/// @DnDVersion : 1
