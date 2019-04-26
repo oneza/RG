@@ -12,7 +12,8 @@
         "77984732-b03d-4cb2-93d5-ed1e17473a6e",
         "a3c8ba46-2770-4aed-9424-9c14f5240c46",
         "9daaec26-9695-47f3-9060-9fcd6c51e099",
-        "0ecb05b4-aacc-4908-b622-1651f0580110"
+        "0ecb05b4-aacc-4908-b622-1651f0580110",
+        "3dd0b806-f2fa-4a19-a565-0a5b7521b724"
     ],
     "filterType": "GMSprite",
     "folderName": "cutom_skinbuttons",
