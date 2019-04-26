@@ -72,13 +72,6 @@ else
 	sprite_index = choose(spr_blockcty1, spr_blockcty2, spr_blockcty3);
 }
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 35A86A6C
-/// @DnDArgument : "expr" "1.5"
-/// @DnDArgument : "var" "block_speed"
-block_speed = 1.5;
-
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
 /// @DnDVersion : 1.1
 /// @DnDHash : 09CD5CC0
@@ -88,5 +81,5 @@ direction = 270;
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 487CD9A3
-/// @DnDArgument : "speed" "block_speed"
-speed = block_speed;
+/// @DnDArgument : "speed" "1.5"
+speed = 1.5;
