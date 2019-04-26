@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "1edb8a75-3515-4350-a42c-333330141f30",
+            "Value": {
+                "id": "1518d08a-751a-4421-b591-7467a1e0eb14",
+                "resourcePath": "fonts\\leaderboard\\leaderboard.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1f95c3ed-1240-43f5-8e59-cb5e176c2078",
             "Value": {
                 "id": "ec884c4d-9271-4a5e-83bf-eb77af3f5434",

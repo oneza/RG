@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Drawing.Set_Font
+/// @DnDVersion : 1
+/// @DnDHash : 02E13800
+/// @DnDArgument : "font" "leaderboard"
+/// @DnDSaveInfo : "font" "1edb8a75-3515-4350-a42c-333330141f30"
+draw_set_font(leaderboard);
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 38867D19
