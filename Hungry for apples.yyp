@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "007e85b3-3b49-4243-9783-71c33b6c8837",
+            "Value": {
+                "id": "7e012794-52e0-42d6-b3e3-8ddeeea35146",
+                "resourcePath": "objects\\obj_speedch\\obj_speedch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "02012f20-b5d1-4385-8436-8de6d4e01ceb",
             "Value": {
                 "id": "dfeb57a1-8c2a-4558-baa3-0ac651a2acb1",

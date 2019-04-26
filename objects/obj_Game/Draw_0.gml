@@ -71,10 +71,10 @@ switch(l22F959E9_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 44852947
 		/// @DnDParent : 47CC2C1E
-		/// @DnDArgument : "x" "420"
+		/// @DnDArgument : "x" "418"
 		/// @DnDArgument : "caption" """"
 		if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-		draw_text(420, 0, string("") + string(__dnd_score));
+		draw_text(418, 0, string("") + string(__dnd_score));
 		break;
 
 	/// @DnDAction : YoYo Games.Switch.Case
