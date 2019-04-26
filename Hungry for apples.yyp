@@ -567,14 +567,6 @@
             }
         },
         {
-            "Key": "54a90190-08a8-4e69-9842-2e94d379c4aa",
-            "Value": {
-                "id": "b6dac935-c9d2-47b7-be57-5d141daff794",
-                "resourcePath": "objects\\testobj\\testobj.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "553b0b4f-f263-4eea-a82e-9260022cdc19",
             "Value": {
                 "id": "3db4e346-a89c-4195-8635-bee3bb11fa27",
@@ -1460,14 +1452,6 @@
                 "id": "2a2b3270-fe3c-444f-b811-f47014cd69b4",
                 "resourcePath": "sounds\\snd_tutorial\\snd_tutorial.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "e0bda3f4-a703-4faf-862e-694510a36d71",
-            "Value": {
-                "id": "30e269d0-ede1-4d9a-86c7-2f11db092cfe",
-                "resourcePath": "objects\\testobj1\\testobj1.yy",
-                "resourceType": "GMObject"
             }
         },
         {
